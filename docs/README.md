@@ -1,0 +1,18 @@
+---
+home: true
+title: 首页
+lang: zh-CN
+heroImage: https://grpc.io/img/logos/grpc-logo.png
+heroText: gRPC 那些事儿
+tagline: 高性能的开源 RPC 框架
+actionText: 开启旅程 →
+actionLink: /introduction/
+features:
+- title: 中英对照
+  details: 方便切换英文（原文）与中文(译文)。
+- title: 代码落地
+  details: 文档中的对应代码开箱即用 ( Github Repository )
+- title: 持续扩展
+  details: 原文档中的一些概念与技术进一步的探讨
+footer: GPL-3.0 Licensed | Copyright © 2019-present Geextudio
+---
