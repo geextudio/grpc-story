@@ -1,2 +1,2 @@
 # rpc-story
-To learn RPC Remote Procedure Call）by coding &amp; translating.
+To learn gRPC ( Remote Procedure Call ）by coding &amp; translating.
