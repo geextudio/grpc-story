@@ -118,7 +118,7 @@ module.exports = {
                   { text: 'Code Ready', link: 'https://github.com/geextudio/IdentityServer4.Chinese/tree/master/code' },
                 ],
 
-                sidebar: [
+                /* sidebar: [
                   {
                     title: 'INTRODUCTION',   // 必要的
                     //path: '/en/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
@@ -141,7 +141,7 @@ module.exports = {
                       '/en/quickstart/addjsclient'
                     ]
                   } 
-                ]
+                ] */
             }
             
         }
